@@ -21,4 +21,9 @@ numerical modelling in geosciences, see my
 
 # **pyRANDOM**
 
-(text)
+We discuss and introduce simple statistics and random numbers, and explore 
+several examples, e.g. the **traveling saleesman problem**, and
+**diffusion-limited aggregation**.
+
+- A technical description can be found in the [github repository](https://github.com/georgkaufmann/pyRANDOM).
+- A discussion of modelling results is given in the [(Dynamics)<sup>2</sup> blog](https://blog.kawueweb.de/dynamics).
