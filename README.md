@@ -22,7 +22,7 @@ numerical modelling in geosciences, see my
 # **pyRANDOM**
 
 We discuss and introduce simple statistics and random numbers, and explore 
-several examples, e.g. the **traveling saleesman problem**, and
+several examples, e.g. the **traveling salesman problem**, and
 **diffusion-limited aggregation**.
 
 - A technical description can be found in the [github repository](https://github.com/georgkaufmann/pyRANDOM).
