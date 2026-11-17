@@ -289,7 +289,7 @@ def dlaRun(nx,ny,nsaved=1000,ncount=10000,seed='area',location='center',path='di
     if (sum(weights)>100): sys.exit('weights > 100')
     # check for directory for plotting
     if not os.path.isdir(path):
-        os.mkdir(path)
+        os.makedirs(path)
     # create grid and set boundary conditions
     X,Y,matrix = libpyRANDOM.dlaCreateGrid(nx,ny)
     matrix = libpyRANDOM.dlaCreateBC(nx,ny,matrix,location=location)
